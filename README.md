@@ -1,1 +1,1 @@
-# legalassist
+Nyaaysahayak is your go-to app for all legal queries and guidance in India. Whether you have questions about your rights, need assistance with laws, or want to understand important documents like Aadhar card, PAN card, voter ID, and driver's license, Nyaaysahayak has you covered. It's like having a knowledgeable friend who can explain everything in simple terms, and you can chat with it or talk to it using voice commands.
